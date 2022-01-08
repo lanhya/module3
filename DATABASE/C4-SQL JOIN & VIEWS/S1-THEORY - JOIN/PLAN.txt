@@ -1,0 +1,5 @@
+SQL JOIN
+●	INNER / RIGHT/LEFT / CROSS join
+●	Self join
+
+Good join guide https://joins.spathon.com/

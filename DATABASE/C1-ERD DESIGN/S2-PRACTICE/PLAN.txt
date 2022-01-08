@@ -1,0 +1,9 @@
+S2 - PLAN
+
+Exercise 1: Complete the data types of a model
+
+Exercise 2: Give example of instances in a table 
+
+Exercise 3: Explain how to make the one to many relation between Books and Author, add the right column (Author ID) to Books table 
+
+Exercise 4 (Bonus): Be able to read relation many to many between two table, given the relation table (borrows)
