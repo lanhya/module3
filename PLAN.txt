@@ -1,0 +1,9 @@
+Plan S1
+
+Introduction to what is a database, who uses it in the world
+
+Activity 1: guess the type of data of attributes
+
+Activity 2: give examples of instances of students
+
+Explanation 3: how the relation one too many is made between Classroom and Students (first approach of relation)
